@@ -1,1 +1,1 @@
-# RoomsBoundariesStudio.github.io
+# RoomsBoundaries.github.io
